@@ -30,10 +30,9 @@ CSS File:
 8. The `:hover::before` and `:focus::before` pseudo-elements become fully visible when the button is hovered or focused, with increased opacity.
 9. The `:hover::after` and `:focus::after` pseudo-elements become fully visible when the button is hovered or focused, with increased opacity.
 
-Output:
+# Output:
 
- 
-
-https://github.com/AmishaSharma12002/NeonButton/assets/92213190/976b3a03-8f02-4cac-b82c-d434072b301e
+Onhover:
+<img width="455" alt="Screenshot 2023-07-14 162622" src="https://github.com/AmishaSharma12002/NeonButton/assets/92213190/f79230d8-ecbf-4ee0-bac1-78e24915047c">
 
 
