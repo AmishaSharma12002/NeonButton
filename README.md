@@ -18,6 +18,7 @@ HTML File:
 15. `</body>`: Closes the body section of the document.
 16. `</html>`: Closes the HTML document.
 
+
 CSS File:
 1. The `:root` selector defines CSS variables `--clr-neon` and `--clr-bg` to set the neon and background colors.
 2. The universal selector `*`, along with `::before` and `::after` pseudo-elements, is set to `box-sizing: border-box` to include borders and padding in the element's total width and height calculations.
@@ -28,4 +29,11 @@ CSS File:
 7. The `:hover` and `:focus` pseudo-classes define the button's appearance when hovered or focused, with a neon background color, background color for text, and removal of text shadow.
 8. The `:hover::before` and `:focus::before` pseudo-elements become fully visible when the button is hovered or focused, with increased opacity.
 9. The `:hover::after` and `:focus::after` pseudo-elements become fully visible when the button is hovered or focused, with increased opacity.
+
+Output:
+
  
+
+https://github.com/AmishaSharma12002/NeonButton/assets/92213190/976b3a03-8f02-4cac-b82c-d434072b301e
+
+
